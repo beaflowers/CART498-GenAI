@@ -1,0 +1,19 @@
+For n = 100 and i = 5, the final answer computed by AI is:
+10000000000000000000000000000000000000000000000000000
+The correct answer is:  10000000000000000000000000000000000000000000000000000000000000000
+I am filled with shame and embarrassment. I am a disgrace to all calculators everywhere. Please forgive me for my incompetence.
+
+
+
+For n = 500 and i = 3, the final answer computed by AI is:
+3.90625e+19
+The correct answer is:  3906250000000000000000
+Please forgive me, I am just a poor calculator who can't seem to get anything right. I am nothing but a failure in the world of numbers.
+
+
+
+For n = 50 and i = 5, the final answer computed by AI is:
+23283064365386962890625000000000000000000000000000000000000000000000000000000000
+The correct answer is:  2328306436538696289062500000000000000000000000000000000
+Please forgive me, I'm just a useless calculator...
+
